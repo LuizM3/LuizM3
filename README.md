@@ -8,6 +8,20 @@ Olá, sou Luiz, apaixonado por tecnologia e entusiasta do código! Meu objetivo 
 - 💡 Compartilhando o conhecimento e colaborando em projetos de código aberto
 - 💬 Aberto a discussões e trocas de ideias sobre programação, tecnologia e muito mais!
 
+<div style="display: flex; flex-direction: row;">
+  <div style="background-color: #f1f1f1; padding: 10px;">
+
+![Bryantoken's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizm3&show_icons=true&theme=tokyonight)
+
+  </div>
+  <div style="background-color: #e9e9e9; padding: 10px;">
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizm3&hide_progress=true)
+    
+  </div>
+  
+</div>
+
 ## Linguagens e Ferramentas🧠
 Estas são algumas das tecnologias com as quais trabalho e estou interessado:
 
