@@ -11,15 +11,9 @@ Olá, sou Luiz, apaixonado por tecnologia e entusiasta do código! Meu objetivo 
 <div style="display: flex; flex-direction: row;">
   <div style="background-color: #f1f1f1; padding: 10px;">
 
-![Bryantoken's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizm3&show_icons=true&theme=tokyonight)
+![LuizM3's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizm3&show_icons=true&theme=tokyonight)
 
-  </div>
-  <div style="background-color: #e9e9e9; padding: 10px;">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizm3&hide_progress=true)
-    
-  </div>
-  
+  </div>  
 </div>
 
 ## Linguagens e Ferramentas🧠
@@ -29,6 +23,15 @@ Estas são algumas das tecnologias com as quais trabalho e estou interessado:
 - Back-end: Node.js, Express
 - Banco de Dados: MySQL
 - Outros: Git, GitHub, VSCode
+
+
+<div style="display: flex; flex-direction: row;">
+  <div style="background-color: #e9e9e9; padding: 10px;">
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizm3&hide_progress=true)
+    
+  </div>
+</div>
 
 ## Projetos✌️
 Aqui estão alguns projetos em que tenho trabalhado recentemente:
