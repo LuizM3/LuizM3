@@ -1,45 +1,41 @@
-# Bem-vindo ao meu Mundo do Código! 👋
+# Luiz Felipe de Souza Marques
 
-## Sobre mim😁
-Olá, sou Luiz, apaixonado por tecnologia e entusiasta do código! Meu objetivo é explorar e criar soluções inovadoras para desafios do mundo real.
+### Estudante de Ciência da Computação
 
-- 🚀 Atualmente explorando o vasto universo do desenvolvimento web
-- 🌱 Aprendendo algo novo a cada dia
-- 💡 Compartilhando o conhecimento e colaborando em projetos de código aberto
-- 💬 Aberto a discussões e trocas de ideias sobre programação, tecnologia e muito mais!
+## 👨‍💻 Perfil Profissional
+Estudante de Ciência da Computação com foco em desenvolvimento de software e arquitetura de sistemas. Meu objetivo é aplicar conhecimentos acadêmicos em soluções práticas, com ênfase em qualidade de código, escalabilidade e boas práticas de engenharia de software.
 
-<div style="display: flex; flex-direction: row;">
-  <div style="background-color: #f1f1f1; padding: 10px;">
+Atualmente, dedico-me a aprofundar conhecimentos em:
+* Banco de Dados e Back-end
+* Projetos Open Source e colaboração acadêmica
 
-![LuizM3's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizm3&show_icons=true&theme=tokyonight)
+---
 
-  </div>  
-</div>
+## 🛠 Stack Tecnológica
 
-## Linguagens e Ferramentas🧠
-Estas são algumas das tecnologias com as quais trabalho e estou interessado:
+**Back-end & Database**
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-- Front-end: HTML, CSS, JavaScript, React
-- Back-end: Node.js, Express
-- Banco de Dados: MySQL
-- Outros: Git, GitHub, VSCode
+**Ferramentas**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
+---
 
-<div style="display: flex; flex-direction: row;">
-  <div style="background-color: #e9e9e9; padding: 10px;">
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizm3&hide_progress=true)
-    
-  </div>
-</div>
+## 📂 Projetos em Destaque
 
-## Projetos✌️
-Aqui estão alguns projetos em que tenho trabalhado recentemente:
+### [NutriFood](https://github.com/LuizM3/NutriFood)
+> **Trabalho de Conclusão de Curso (TCC) - Técnico em Informática para Internet**
 
-- [NutriFood](https://github.com/LuizM3/NutriFood) - este projeto foi meu TCC do meu curso técnico em informática para internet. A finalidade dele era incurtar a distância entra a nutricionista do meu instituto e os alunos.
+Sistema web desenvolvido para otimizar o acompanhamento nutricional institucional.
+* **Objetivo:** Reduzir a lacuna de comunicação entre o departamento de nutrição e os alunos.
+* **Tecnologias:** HTML, CSS, JavaScript, PHP/Node (ajustar conforme real), MySQL.
+* **Impacto:** Digitalização de processos de agendamento e acompanhamento de dietas.
 
-## Vamos Conectar!
-Se você também é apaixonado por tecnologia, código ou apenas quer trocar ideias, ficarei feliz em me conectar!
+---
 
-- [LinkedIn](https://www.linkedin.com/in/luiz-felipe-de-souza-marques-4b4793242/)
-- [Instagram](https://www.instagram.com/luiz_m3/)
+## 📬 Contato
+
+Estou aberto a novas oportunidades e colaborações acadêmicas.
+
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-de-souza-marques-4b4793242/)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizfelipesoma@gmail.com)
